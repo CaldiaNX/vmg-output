@@ -1,0 +1,24 @@
+BEGIN:VMSG
+VERSION:1.1
+X-IRMC-STATUS:READ
+X-IRMC-TYPE:INET
+X-IRMC-BOX:SENTBOX
+BEGIN:VENV
+BEGIN:VBODY
+Date: Fri, 03 Jun 2011 09:09:09 +0900
+From: guy@co.jp
+Subject: –¾“ú‚Ì—\’è
+Reply-To: 
+To: girl@co.jp
+Cc: 
+Bcc: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: 8bit
+
+‚¨‚Í‚æ‚¤B
+–¾“ú‚Í’©8‚É‰wW‡‚ÅB
+
+END:VBODY
+END:VENV
+END:VMSG
